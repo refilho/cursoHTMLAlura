@@ -1,0 +1,11 @@
+h1 {
+    font-size: 60px;
+    background-color: rebeccapurple;
+    color: azure;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+h2 {
+    font-size: 48px;
+    font-family: "Open Sans", sans-serif;
+}
